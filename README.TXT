@@ -19,4 +19,12 @@ call the object's methods, such as increment and setValue.
 10. It is calling the method and not the object whioch is why it doesn't work out or it gives an error.
 11. Missing a .class to process the information/command.
 12. It lets you reach the limit without you reseting it.
-13.
+13. Anything above 0 but below the limit is what this code is trying to demonstrate.
+15. !(4<5) = false
+    !false = true
+    (2 > 2) || ((4 == 4) && (1 <0)) = false
+    (2 > 2) || (4 == 4) && (1 < 0) = false
+    (34 != 33) && !false = true
+16. 
+20. 9 + 3 + "cat" = 12cat
+    "cat" + 3 + 9 = cat12
