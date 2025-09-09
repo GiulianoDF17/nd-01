@@ -18,4 +18,5 @@ call the object's methods, such as increment and setValue.
 9. Both values resulted in 0 since both values were only set to 10 and not given 10 increments. 
 10. It is calling the method and not the object whioch is why it doesn't work out or it gives an error.
 11. Missing a .class to process the information/command.
-12. 
+12. It lets you reach the limit without you reseting it.
+13.
