@@ -25,6 +25,11 @@ call the object's methods, such as increment and setValue.
     (2 > 2) || ((4 == 4) && (1 <0)) = false
     (2 > 2) || (4 == 4) && (1 < 0) = false
     (34 != 33) && !false = true
-16. 
+16. ( a == b )
+17. ( a ^ b )
+19. No there is no difference
 20. 9 + 3 + "cat" = 12cat
-    "cat" + 3 + 9 = cat12
+    "cat" + 3 + 9 = cat39
+    
+    It doesn't surprise me because after a string the code think that its apart of the string so it makes the number of both numbers meaning  (39 instead of 12)
+    
